@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mjunayd&label=Profile+Views&color=70a5fd&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=JunaydEco-coder&label=Profile+Views&color=70a5fd&style=flat-square" alt="profile views"/>
 </div>
 
 <br/>
@@ -79,18 +79,18 @@ class MohammedJunayd:
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/mjunayd">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=mjunayd&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <a href="https://github.com/JunaydEco-coder">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=JunaydEco-coder&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
-  <a href="https://github.com/mjunayd">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjunayd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <a href="https://github.com/JunaydEco-coder">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunaydEco-coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
 
 <!-- ════════════════════ 7. STREAK STATS ════════════════════ -->
 <div align="center">
-  <a href="https://github.com/mjunayd">
-    <img src="https://streak-stats.demolab.com?user=mjunayd&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
+  <a href="https://github.com/JunaydEco-coder">
+    <img src="https://streak-stats.demolab.com?user=JunaydEco-coder&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
   </a>
 </div>
 
@@ -98,14 +98,14 @@ class MohammedJunayd:
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mjunayd&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JunaydEco-coder&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 </div>
 
 <!-- ════════════════════ 9. TROPHY WALL ════════════════════ -->
 ### 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mjunayd&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=JunaydEco-coder&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
 
 <!-- ════════════════════ 10. WORK EXPERIENCE ════════════════════ -->
@@ -131,8 +131,8 @@ class MohammedJunayd:
 
 | Project | Stack | Highlights |
 |:-------:|:------|:-----------|
-| **[GestureLearn X](https://github.com/mjunayd)** | Python · MediaPipe Hands · Three.js · JavaScript · WebGL | Real-time hand gesture recognition with **21-landmark** tracking; browser-based **3D** platform for gesture-controlled learning, object manipulation & air drawing; gesture classification + landmark smoothing + AI-assisted learning. |
-| **[Smart Dustbin (IoT)](https://github.com/mjunayd)** | Python · Arduino IDE · Blynk · ESP8266 / NodeMCU | IoT smart dustbin with ultrasonic fill-level sensing; **real-time** waste monitoring streamed to cloud/mobile; contactless operation + alert-based notifications improving hygiene & efficiency. |
+| **[GestureLearn X](https://github.com/JunaydEco-coder)** | Python · MediaPipe Hands · Three.js · JavaScript · WebGL | Real-time hand gesture recognition with **21-landmark** tracking; browser-based **3D** platform for gesture-controlled learning, object manipulation & air drawing; gesture classification + landmark smoothing + AI-assisted learning. |
+| **[Smart Dustbin (IoT)](https://github.com/JunaydEco-coder)** | Python · Arduino IDE · Blynk · ESP8266 / NodeMCU | IoT smart dustbin with ultrasonic fill-level sensing; **real-time** waste monitoring streamed to cloud/mobile; contactless operation + alert-based notifications improving hygiene & efficiency. |
 
 </div>
 
@@ -177,24 +177,9 @@ class MohammedJunayd:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mjunayd)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohammedjunaydali@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mjunayd)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JunaydEco-coder)
 
 </div>
 
 <!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
-
-<!--
-**JunaydEco-coder/JunaydEco-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
