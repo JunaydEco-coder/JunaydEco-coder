@@ -1,10 +1,7 @@
-<!-- ════════════════════ 1. HERO BANNER ════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Junayd%20Ali%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ML%20Enthusiast%20%7C%20AI%20%C2%B7%20Vision%20%C2%B7%20IoT&descAlignY=62&descSize=16" width="100%"/>
-
-<!-- ════════════════════ 2. TYPING HEADER ════════════════════ -->
+<!-- ════════════════════ 1. TYPING HEADER ════════════════════ -->
 <div align="center">
   <a href="https://github.com/JunaydEco-coder">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi%2C+this+is+Junayd;Machine+Learning+and+Deep+Learning+Explorer;Python+%7C+Java+%7C+Computer+Vision;Turning+data+into+intelligent+decisions;3x+Hackathon+Prize+Winner" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+this+is+Junayd;Machine+Learning+and+Deep+Learning+Explorer;Python+%7C+Java+%7C+Computer+Vision;Turning+data+into+intelligent+decisions;3x+Hackathon+Prize+Winner" alt="Typing SVG"/>
   </a>
 </div>
 
@@ -91,6 +88,15 @@ class MohammedJunayd:
 <div align="center">
   <a href="https://github.com/JunaydEco-coder">
     <img src="https://streak-stats.demolab.com?user=JunaydEco-coder&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
+  </a>
+</div>
+
+<!-- ════════════════════ LEETCODE STATS ════════════════════ -->
+### 🧩 LeetCode Stats
+
+<div align="center">
+  <a href="https://leetcode.com/u/Mohammed_Junayd_Ali_M/">
+    <img src="https://leetcard.jacoblin.cool/Mohammed_Junayd_Ali_M?theme=dark&font=Fira%20Code&ext=contest&border=0&radius=10" alt="LeetCode Stats"/>
   </a>
 </div>
 
