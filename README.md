@@ -1,7 +1,7 @@
 <!-- ════════════════════ 1. TYPING HEADER ════════════════════ -->
 <div align="center">
   <a href="https://github.com/JunaydEco-coder">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+this+is+Junayd;Machine+Learning+and+Deep+Learning+Explorer;Python+%7C+Java+%7C+Computer+Vision;Turning+data+into+intelligent+decisions;3x+Hackathon+Prize+Winner" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=1000&height=70&lines=Hi%2C+this+is+Junayd;Machine+Learning+and+Deep+Learning+Explorer;Python+%7C+Java+%7C+Computer+Vision;Turning+data+into+intelligent+decisions;3x+Hackathon+Prize+Winner" alt="Typing SVG"/>
   </a>
 </div>
 
@@ -38,39 +38,52 @@ class MohammedJunayd:
 <!-- ════════════════════ 4. TECH BADGES ════════════════════ -->
 ### 🛠️ Tech Stack
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-**Frameworks & Libraries**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
-
-**Cloud & DevOps / IoT**
-
-![Blynk](https://img.shields.io/badge/Blynk-00A0B0?style=flat-square&logo=blynk&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266%20%2F%20NodeMCU-E7352C?style=flat-square&logo=espressif&logoColor=white)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="right" width="190"><b>💻 Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>🧠 ML & Frameworks</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white"/>
+      <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>☁️ Cloud & IoT</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Blynk-00A0B0?style=for-the-badge&logo=blynk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ESP8266%20%2F%20NodeMCU-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>🗄️ Databases</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>🔧 Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 <!-- ════════════════════ 5 & 6. GITHUB STATS + TOP LANGS ════════════════════ -->
 ### 📊 GitHub Analytics
