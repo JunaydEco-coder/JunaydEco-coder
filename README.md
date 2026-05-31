@@ -3,7 +3,7 @@
 
 <!-- ════════════════════ 2. TYPING HEADER ════════════════════ -->
 <div align="center">
-  <a href="https://github.com/mjunayd">
+  <a href="https://github.com/JunaydEco-coder">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Information+Technology+Undergrad+%40+SJIT;Machine+Learning+%26+Deep+Learning+Explorer;Python+%7C+Java+%7C+Computer+Vision;3x+Hackathon+Prize+Winner" alt="Typing SVG"/>
   </a>
 </div>
