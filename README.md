@@ -1,10 +1,10 @@
 <!-- ════════════════════ 1. HERO BANNER ════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Junayd%20Ali%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ML%20Enthusiast%20%7C%20Building%20at%20the%20intersection%20of%20AI,%20Vision%20%26%20IoT&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Junayd%20Ali%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ML%20Enthusiast%20%7C%20AI%20%C2%B7%20Vision%20%C2%B7%20IoT&descAlignY=62&descSize=16" width="100%"/>
 
 <!-- ════════════════════ 2. TYPING HEADER ════════════════════ -->
 <div align="center">
   <a href="https://github.com/JunaydEco-coder">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Information+Technology+Undergrad+%40+SJIT;Machine+Learning+%26+Deep+Learning+Explorer;Python+%7C+Java+%7C+Computer+Vision;3x+Hackathon+Prize+Winner" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi%2C+this+is+Junayd;Machine+Learning+and+Deep+Learning+Explorer;Python+%7C+Java+%7C+Computer+Vision;Turning+data+into+intelligent+decisions;3x+Hackathon+Prize+Winner" alt="Typing SVG"/>
   </a>
 </div>
 
