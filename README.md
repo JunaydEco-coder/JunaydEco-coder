@@ -6,10 +6,49 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JunaydEco-coder&label=Profile+Views&color=70a5fd&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=JunaydEco-coder&label=Profile+Views&color=00FFFF&style=for-the-badge" alt="profile views"/>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/mjunayd/"><img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
+  <a href="mailto:mohammedjunaydali@gmail.com"><img src="https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+  <a href="https://leetcode.com/u/Mohammed_Junayd_Ali_M/"><img src="https://img.shields.io/badge/LeetCode-00FFFF?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </div>
 
 <br/>
+
+<!-- ════════════════════ PROFESSIONAL OVERVIEW ════════════════════ -->
+### 🚀 Professional Overview
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+**👨‍💻 The Developer**
+
+I'm an **Information Technology** undergrad and **ML enthusiast** who loves turning data and sensors into intelligent, interactive systems. My work spans **computer vision**, **deep learning**, and **IoT** — from real-time gesture recognition in the browser to cloud-connected smart hardware.
+
+**Current Focus:**
+
+- 🧠 **Deep Learning** — CNNs, PyTorch, model evaluation
+- 👁️ **Computer Vision** — MediaPipe, landmark tracking, real-time inference
+- ⚙️ **Full-Stack & IoT** — React, ESP8266/NodeMCU, Blynk
+
+  </td>
+  <td width="50%" valign="top">
+
+**📈 Impact & Highlights**
+
+- **GestureLearn X:**
+  Built a real-time hand-tracking platform with **21-landmark** precision for gesture-controlled 3D learning.
+- **Smart Dustbin (IoT):**
+  Engineered a contactless, cloud-connected bin with **real-time** fill-level alerts.
+- **Competitions:**
+  **3×** inter-college prize winner (PRAVESHA, ARCANE, DATRONIX).
+- **ML Internship @ Vcodez:**
+  Trained & evaluated production ML models in **PyTorch** and **scikit-learn**.
+
+  </td>
+  </tr>
+</table>
 
 <!-- ════════════════════ 3. CODE-BLOCK ABOUT ME ════════════════════ -->
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
@@ -35,55 +74,45 @@ class MohammedJunayd:
 
 <br clear="right"/>
 
-<!-- ════════════════════ 4. TECH BADGES ════════════════════ -->
-### 🛠️ Tech Stack
+<!-- ════════════════════ 4. THE ARSENAL ════════════════════ -->
+### 🛠️ The Arsenal
 
-<table align="center">
-  <tr>
-    <td align="right" width="190"><b>💻 Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>🧠 ML & Frameworks</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white"/>
-      <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>☁️ Cloud & IoT</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Blynk-00A0B0?style=for-the-badge&logo=blynk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-      <img src="https://img.shields.io/badge/ESP8266%20%2F%20NodeMCU-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>🗄️ Databases</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>🔧 Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+**💻 Languages**
+
+![Python](https://img.shields.io/badge/Python-00FFFF?style=for-the-badge&logo=python&logoColor=black)
+![Java](https://img.shields.io/badge/Java-00FFFF?style=for-the-badge&logo=openjdk&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-00FFFF?style=for-the-badge&logo=mysql&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-00FFFF?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-00FFFF?style=for-the-badge&logo=html5&logoColor=black)
+
+**🧠 AI & Machine Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-00FFFF?style=for-the-badge&logo=pytorch&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-00FFFF?style=for-the-badge&logo=scikit-learn&logoColor=black)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-00FFFF?style=for-the-badge&logo=google&logoColor=black)
+
+**🌐 Frontend & Graphics**
+
+![React](https://img.shields.io/badge/React-00FFFF?style=for-the-badge&logo=react&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-00FFFF?style=for-the-badge&logo=three.js&logoColor=black)
+![WebGL](https://img.shields.io/badge/WebGL-00FFFF?style=for-the-badge&logo=webgl&logoColor=black)
+
+**☁️ Cloud & IoT**
+
+![Blynk](https://img.shields.io/badge/Blynk-00FFFF?style=for-the-badge&logo=blynk&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino_IDE-00FFFF?style=for-the-badge&logo=arduino&logoColor=black)
+![ESP8266](https://img.shields.io/badge/ESP8266%20%2F%20NodeMCU-00FFFF?style=for-the-badge&logo=espressif&logoColor=black)
+
+**🔧 Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-00FFFF?style=for-the-badge&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-00FFFF?style=for-the-badge&logo=github&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-00FFFF?style=for-the-badge&logo=visualstudiocode&logoColor=black)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-00FFFF?style=for-the-badge&logo=visualstudio&logoColor=black)
+
+</div>
 
 <!-- ════════════════════ 5 & 6. GITHUB STATS + TOP LANGS ════════════════════ -->
 ### 📊 GitHub Analytics
@@ -194,9 +223,10 @@ class MohammedJunayd:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mjunayd)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohammedjunaydali@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JunaydEco-coder)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/mjunayd)
+[![Email](https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:mohammedjunaydali@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-00FFFF?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mohammed_Junayd_Ali_M/)
+[![GitHub](https://img.shields.io/badge/GitHub-00FFFF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/JunaydEco-coder)
 
 </div>
 
