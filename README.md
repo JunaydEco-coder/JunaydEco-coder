@@ -40,6 +40,7 @@ I'm an **Information Technology** undergrad and **ML enthusiast** who loves turn
 - **Smart Dustbin (IoT):**
   Engineered a contactless, cloud-connected bin with **real-time** fill-level alerts.
 - **Competitions:**
+  Active participant in **multiple** inter-college tech events (PRAVESHA, ARCANE, DATRONIX, DevForge).
 - **ML Internship @ Vcodez:**
   Trained & evaluated production ML models in **PyTorch** and **scikit-learn**.
 
@@ -182,15 +183,15 @@ class MohammedJunayd:
 </div>
 
 <!-- ════════════════════ 12. ACHIEVEMENTS ════════════════════ -->
-### 🏅 Achievements
+### 🏅 Competitions & Certifications
 
 <div align="center">
 
-| | Achievement | Details |
+| | Activity | Details |
 |:-:|:------------|:--------|
-| 🥇 | **Prize Winner — Brain Bytes (PRAVESHA 2025)** | Led a team of **2** at Vels University. |
-| 🥇 | **Prize Winner — Sector Six (ARCANE 2024)** | Team event hosted by B.S. Abdur Rahman Crescent Institute. |
-| 🥇 | **Prize Winner — SherLock Code (DATRONIX 2025)** | Hosted by Easwari Engineering College. |
+| 🎯 | **Brain Bytes (PRAVESHA 2025)** | Participated as team lead of **2** at Vels University. |
+| 🎯 | **Sector Six (ARCANE 2024)** | Team event hosted by B.S. Abdur Rahman Crescent Institute. |
+| 🎯 | **SherLock Code (DATRONIX 2025)** | Hosted by Easwari Engineering College. |
 | 🛠️ | **DevForge 24-Hour Hackathon** | Participant — KPR College of Technology, Coimbatore. |
 | 📜 | **Certifications** | HTML5 (Infosys Springboard), DBMS (NPTEL), Java Language Features (Infosys), Design Thinking (NPTEL). |
 
