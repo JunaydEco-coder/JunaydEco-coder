@@ -40,7 +40,6 @@ I'm an **Information Technology** undergrad and **ML enthusiast** who loves turn
 - **Smart Dustbin (IoT):**
   Engineered a contactless, cloud-connected bin with **real-time** fill-level alerts.
 - **Competitions:**
-  **3×** inter-college prize winner (PRAVESHA, ARCANE, DATRONIX).
 - **ML Internship @ Vcodez:**
   Trained & evaluated production ML models in **PyTorch** and **scikit-learn**.
 
