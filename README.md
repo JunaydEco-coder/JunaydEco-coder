@@ -1,14 +1,12 @@
 <!-- ════════════════════ 1. TYPING HEADER ════════════════════ -->
 <div align="center">
   <a href="https://github.com/JunaydEco-coder">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=1000&height=70&lines=Hi%2C+this+is+Junayd;Machine+Learning+and+Deep+Learning+Explorer;Python+%7C+Java+%7C+Computer+Vision;Turning+data+into+intelligent+decisions;3x+Hackathon+Prize+Winner" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=1000&height=70&lines=Hi%2C+this+is+Junayd;Machine+Learning+and+Deep+Learning+Explorer;Python+%7C+Java+%7C+Computer+Vision;Turning+data+into+intelligent+decisions" alt="Typing SVG"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JunaydEco-coder&label=Profile+Views&color=00FFFF&style=for-the-badge" alt="profile views"/>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/mjunayd/"><img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
+  <a href="https://www.linkedin.com/in/mohammed-junayd-ali-m-4b9a12277/"><img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
   <a href="mailto:mohammedjunaydali@gmail.com"><img src="https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=black"/></a>
   <a href="https://leetcode.com/u/Mohammed_Junayd_Ali_M/"><img src="https://img.shields.io/badge/LeetCode-00FFFF?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </div>
@@ -223,7 +221,7 @@ class MohammedJunayd:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/mjunayd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/mohammed-junayd-ali-m-4b9a12277/)
 [![Email](https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:mohammedjunaydali@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-00FFFF?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mohammed_Junayd_Ali_M/)
 [![GitHub](https://img.shields.io/badge/GitHub-00FFFF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/JunaydEco-coder)
